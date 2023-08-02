@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "license": "MIT",
   "dependencies": {
-    "@semantic-release/gitlab": "^6.0.9",
-    "@sentry/cli": "^1.65.0",
-    "semantic-release": "17.4.2"
+    "@semantic-release/gitlab": "^12.0.3",
+    "@sentry/cli": "^1.75.2",
+    "semantic-release": "^21.0.7"
   }
 }
